@@ -3,7 +3,8 @@ Author -kaif
 vecho "# stop-watch-" >> README.md
 //c program to desine a digital clock
 #include <stdio.h>
-#include <time.h> // for sleep ()function
+#include <time.h> 
+// for sleep ()function
 #include <unistd.h>
 #include <stdlib.h>
 int main (){
